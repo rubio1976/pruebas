@@ -1,0 +1,51 @@
+{
+	"vehicles": [{
+		"datetime": "2020-01-01 12:00:01",
+		"description": "description de prueba vehiculos",
+		"operator": "BICI operadora 1",
+		"id": "5cf83b762f3843a016be4e92",
+		"locations":"2020-01-01 12:00:01",
+		"in_service": "1",
+		"in_maintenance": "0",
+		"is_damaged": "0",
+		"vehicle_type": "bici",
+		"vehicle_license_plate": "324322grt"
+
+	}, {
+		"datetime": "2020-02-11 11:00:01",
+		"description": "description de prueba vehiculos 2",
+		"operator": "BICI operadora 2",
+		"id": "4cf83b762f3843a016be4e92",
+		"location": "2020-01-01 12:00:01",
+		"in_service": "1",
+		"in_maintenance": "0",
+		"is_damaged": "0",
+		"vehicle_type": "bici",
+		"vehicle_license_plate": "324322grt"
+
+	}, {
+		"datetime": "2020-01-01 12:00:01",
+		"description": "description de prueba vehiculos",
+		"operator": "BICI operadora 3",
+		"id": "5cf83b762f3843a016be4e92",
+		"location": "2020-01-01 12:00:01",
+		"in_service": "1",
+		"in_maintenance": "0",
+		"is_damaged": "0",
+		"vehicle_type": "bici",
+		"vehicle_license_plate": "324322grt"
+
+	}, {
+		"datetime": "2020-01-01 12:00:01",
+		"description": "description de prueba vehiculos",
+		"operator": "BICI operadora 4",
+		"id": "5cf83b762f3843a016be4e92",
+		"location": "2020-01-01 12:00:01",
+		"in_service": "1",
+		"in_maintenance": "0",
+		"is_damaged": "0",
+		"vehicle_type": "bici",
+		"vehicle_license_plate": "324322grt"
+
+	}]
+}
