@@ -1,0 +1,245 @@
+{
+  "0c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "0c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "41,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"3d9604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12456"
+  },
+"1c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "1c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "41,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"1d9604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"2c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "2c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "42,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"119604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"3c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "3c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "42,3907285",
+            "lng": "-2,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"139604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"4c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "4c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "41,4907285",
+            "lng": "-3,8057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"149604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"5c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "5c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "40,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"159604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"6c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "6c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "40,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"169604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"7c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "7c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "40,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"179604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"8c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "8c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "41,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"199604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"9c9604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "9c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "41,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"1p9604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  },
+"109604d6-b5ee-11e8-96f8-529269fb1459": {
+        "device_id": "109604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"20200101130001",
+        "gps": {
+            "lat": "41,3907285",
+            "lng": "-3,7057541",
+            "altitude": "",
+            "heading": "",
+            "speed": "10,05",
+            "accuracy": "5,5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "id_trip":"119604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "vehicle_event": "service_start",
+         "vehicle_event_reason": "",
+        "start_service_date":"20200101130001",
+        "status_start_date":"20200101130001",
+        "assigned_license":"WDA12446"
+  }
+
+}
